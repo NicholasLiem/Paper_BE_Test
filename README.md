@@ -1,7 +1,7 @@
 ## How to Use
 1. Clone or fork this repository
 ```sh
-git@github.com:NicholasLiem/AssetFindr_BE_Assignment.git
+git@github.com:NicholasLiem/Paper_BE_Test.git
 ```
 
 2. Initialize .env file using the template given (.env.example)
@@ -14,7 +14,4 @@ cp .env.example .env
 docker compose up --build
 ```
 
-4. To access the backend just hit this url
-```sh
-http://localhost:3001/api/posts
-```
+4. To access the backend just use the postman collection [here](docs/Wallet App API.postman_collection.json)
